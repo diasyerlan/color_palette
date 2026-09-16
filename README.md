@@ -5,7 +5,7 @@ python -m palette_matcher match path/to/image.jpg --top 5
 python -m palette_matcher match path/to/image.jpg --top 5 --json
 ```
 
-## Setup and tests
+## Setup
 
 ```bash
 python -m venv .venv
