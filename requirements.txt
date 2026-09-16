@@ -1,0 +1,8 @@
+playwright
+pandas
+numpy
+Pillow
+scikit-learn
+scikit-image
+matplotlib
+pytest
